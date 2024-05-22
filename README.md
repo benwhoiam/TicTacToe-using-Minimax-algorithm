@@ -1,7 +1,7 @@
 # Tic Tac Toe Game
 
 This project is a simple implementation of the classic Tic Tac Toe game using Python and the Pygame library. It uses MiniMax algorithm in a way that you can never win, either the computer wins, or it's a Tie. It includes the game logic module, a testing module, and a runner script to start the game.
-
+- Video link: https://mega.nz/folder/jtUjTCrL#6I74bg9fwaRecLkDTxzNzg/file/Cglj3TyC
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)

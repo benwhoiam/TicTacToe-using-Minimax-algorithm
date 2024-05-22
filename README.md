@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This project is a simple implementation of the classic Tic Tac Toe game using Python and the Pygame library. It uses MiniMax algorithm in way that you can never win, either the computer wins, or it's a Tie. It includes the game logic module, a testing module, and a runner script to start the game.
+This project is a simple implementation of the classic Tic Tac Toe game using Python and the Pygame library. It uses MiniMax algorithm in a way that you can never win, either the computer wins, or it's a Tie. It includes the game logic module, a testing module, and a runner script to start the game.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,7 +11,6 @@ This project is a simple implementation of the classic Tic Tac Toe game using Py
   - [pytesting.py](#pytestingpy)
   - [runner.py](#runnerpy)
 - [Requirements](#requirements)
-- [License](#license)
 
 ## Installation
 
@@ -22,7 +21,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Py
    ```
 2. Install the required dependencies:
   ```bash
-  pip install -r requirements.txt
+    pip install -r requirements.txt
   ```
 ## Usage
 To start the Tic Tac Toe game, run the following command:
